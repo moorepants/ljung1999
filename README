@@ -1,5 +1,5 @@
 I'm going through Ljung's 1999 book on system identification and writing the
-algorithms in iPython notebooks. I'll primiarly use python but may through some
-R or C is for good measure too. After I've got a solid grasp of a lot of the
+algorithms in iPython notebooks. I'll primiarly use Python but may throw in
+some R or C for good measure too. After I've got a solid grasp of a lot of the
 material, I hope to write a system identifcation toolbox in Python based on the
 SciPy stack.
